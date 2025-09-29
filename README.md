@@ -19,8 +19,8 @@ It also supports ASCII logos and colored output in the console.
 ---
 
 ## 📂 Project Structure
-```
 
+```
 BIGfetch/
 ├── CMakeLists.txt        # CMake build configuration
 ├── vcpkg.json            # Dependencies (nlohmann-json)
@@ -42,8 +42,7 @@ BIGfetch/
 │   └── configreader.h
 └── external/
 └── helper.cpp/.h     # Extra messages
-
-````
+```
 
 ---
 
@@ -53,10 +52,9 @@ BIGfetch/
    ```bash
    git clone https://github.com/yourusername/BIGfetch.git
    cd BIGfetch
-````
+   ```
 
 2. **Install dependencies with vcpkg**
-
    ```bash
    git clone https://github.com/microsoft/vcpkg.git
    ./vcpkg/bootstrap-vcpkg.bat
@@ -64,14 +62,12 @@ BIGfetch/
    ```
 
 3. **Build with CMake + Ninja**
-
    ```bash
    cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=../vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja
    cmake --build build
    ```
 
 4. **Run**
-
    ```bash
    ./build/BIGfetch.exe
    ```
@@ -88,14 +84,14 @@ Customize what BIGfetch displays in `config/config.json`:
     "os": true,
     "helper": true,
     "RAM": true,
-    "cpu":true,
-    "username":true,
-    "hostname":true,
-    "diskspace":true,
-    "uptime":true,
-    "colorbar":true,
-    "battery":true,
-    "ascii":true
+    "cpu": true,
+    "username": true,
+    "hostname": true,
+    "diskspace": true,
+    "uptime": true,
+    "colorbar": true,
+    "battery": true,
+    "ascii": true
   },
   "colors": {
     "title": "CYAN",
@@ -148,4 +144,22 @@ RED, GREEN, BLUE, YELLOW, CYAN, MAGENTA, WHITE, DEFAULT
 Pull requests are welcome!
 For major changes, please open an issue first to discuss your ideas.
 
-````
+---
+
+## 📄 License
+
+[MIT License](LICENSE)
+```
+
+I've created a comprehensive `README.md` file with all the information you provided. The file includes:
+
+- Clear project description and features
+- Well-formatted project structure
+- Step-by-step installation instructions
+- Configuration examples
+- ASCII logo example
+- Color support information
+- Roadmap and contribution guidelines
+- Proper markdown formatting with code blocks and sections
+
+The README is now ready to be used in your GitHub repository!
