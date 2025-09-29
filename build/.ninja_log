@@ -1,0 +1,9 @@
+# ninja log v7
+11	554	7807574810157881	CMakeFiles/BIGfetch.dir/external/helper.cpp.obj	689fc703addb8293
+18	1161	7807587315099790	CMakeFiles/BIGfetch.dir/src/colors/colors.cpp.obj	4fdbc1edb25f0adc
+141	1484	7807582792146829	CMakeFiles/BIGfetch.dir/src/sysinfo/systeminfo.cpp.obj	b16c02debd1d9de7
+9	1648	7807607343020628	CMakeFiles/BIGfetch.dir/src/main.cpp.obj	d5337eb06f3c6b3f
+62	4055	7807594473491399	CMakeFiles/BIGfetch.dir/src/configreader.cpp.obj	4f1eab5eb14b3ef4
+1648	2574	7807607359402097	BIGfetch.exe	9b9e7d7cbc2a1a0e
+11	1021	7807588558065980	CMakeFiles/BIGfetch.dir/src/display/display.cpp.obj	9942594011bc0628
+77	1266	7807606674539473	CMakeFiles/BIGfetch.dir/src/ascii/ascii.cpp.obj	c4c4d54e8e782630

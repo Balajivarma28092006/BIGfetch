@@ -1,0 +1,24 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ce676e298ac117370af332bced84e2ee69bcd5b3e7d34cb3eb761b4764be79e6
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0193ec7cf7eea0ac68d7467742279f56bce1c7a75cbf841d971a30645f83ef0a
+Status: install ok installed
+
+Package: nlohmann-json
+Version: 3.12.0
+Port-Version: 1
+Depends: vcpkg-cmake:x64-windows, vcpkg-cmake-config:x64-windows
+Architecture: x64-mingw-static
+Multi-Arch: same
+Abi: e6c8d9bac8b802a72104434bb70fd5e26c1bd72660a606af74779700d9dbcd67
+Description: JSON for Modern C++
+Status: install ok installed
+

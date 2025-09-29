@@ -1,0 +1,9 @@
+{
+  "name": "neofetch-clone",
+  "version-string": "0.1.0",
+  "description": "A Neofetch-like system info tool for Windows in C++",
+  "dependencies": [
+    "nlohmann-json"
+  ],
+  "builtin-baseline": "b1b19307e2d2ec1eefbdb7ea069de7d4bcd31f01"
+}

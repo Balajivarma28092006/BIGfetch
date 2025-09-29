@@ -1,0 +1,3 @@
+C:/Users/balaj/vscode/c++/BIGfetch/build/CMakeFiles/BIGfetch.dir
+C:/Users/balaj/vscode/c++/BIGfetch/build/CMakeFiles/edit_cache.dir
+C:/Users/balaj/vscode/c++/BIGfetch/build/CMakeFiles/rebuild_cache.dir

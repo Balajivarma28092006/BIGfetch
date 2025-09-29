@@ -1,0 +1,20 @@
+{
+  "show": {
+    "os": true,
+    "helper": true,
+    "RAM": true,
+    "cpu":true,
+    "username":true,
+    "hostname":true,
+    "diskspace":true,
+    "uptime":true,
+    "colorbar":true,
+    "battery":true,
+    "ascii":true
+  },
+  "colors": {
+    "title": "CYAN",
+    "label": "YELLOW",
+    "value": "WHITE"
+  }
+}
