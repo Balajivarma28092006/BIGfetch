@@ -1,5 +1,5 @@
 ```markdown
-##BIGfetch
+## BIGfetch
 
 ```
 A lightweight system information fetch tool written in C++ (like neofetch, but for Windows).  
@@ -8,7 +8,7 @@ It also supports ASCII logos and colored output in the console.
 ```
 ---
 
-##✨ Features
+## Features
 
 ```
 - 🔹 Show OS version, CPU info, RAM usage, Disk usage, Battery status, Hostname, Username, and Uptime  
@@ -20,7 +20,7 @@ It also supports ASCII logos and colored output in the console.
 ```
 ---
 
-##📂 Project Structure
+## Project Structure
 
 
 
