@@ -1,23 +1,23 @@
 ```markdown
 # BIGfetch
 
-
+```
 A lightweight system information fetch tool written in C++ (like neofetch, but for Windows).  
 BIGfetch displays details such as OS, CPU, RAM, Disk, Battery, Uptime, and more — all customizable via a JSON config.  
 It also supports ASCII logos and colored output in the console.
-
+```
 ---
 
 ## ✨ Features
 
-
+```
 - 🔹 Show OS version, CPU info, RAM usage, Disk usage, Battery status, Hostname, Username, and Uptime  
 - 🎨 Customizable color scheme (via `config/config.json`)  
 - 🖼️ Support for ASCII art logos (`src/ascii/logo.txt`)  
 - ⚙️ Modular structure (separate `systeminfo`, `configreader`, `colors`, `display`, `ascii`)  
 - 📦 Package-managed dependencies with vcpkg (currently `nlohmann-json`)  
 - 🪟 Windows-specific system API integration  
-
+```
 ---
 
 ## 📂 Project Structure
