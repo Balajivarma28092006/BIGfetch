@@ -20,7 +20,7 @@ It also supports ASCII logos and colored output in the console.
 
 ## 📂 Project Structure
 
-```
+```tree
 BIGfetch/
 ├── CMakeLists.txt        # CMake build configuration
 ├── vcpkg.json            # Dependencies (nlohmann-json)
@@ -47,6 +47,7 @@ BIGfetch/
 ---
 
 ## ⚡ Installation
+
 
 1. **Clone the repo**
    ```bash
